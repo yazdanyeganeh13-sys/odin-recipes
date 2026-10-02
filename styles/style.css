@@ -1,0 +1,26 @@
+html{
+    background-color: beige;
+}
+.title{
+    background-color: red;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+
+}
+.menu{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 2fr 1fr 1fr;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    list-style-type: none; 
+     padding: 0;
+
+}
+button{
+    color: red;
+    background-color: wheat;
+    padding: 10px;
+}

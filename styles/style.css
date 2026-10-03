@@ -1,5 +1,6 @@
 html{
     background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .title{
     background-color: red;
@@ -12,8 +13,6 @@ html{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 2fr 1fr 1fr;
-    padding: 10px;
-    margin: 10px;
     text-align: center;
     list-style-type: none; 
      padding: 0;
@@ -23,4 +22,53 @@ button{
     color: red;
     background-color: wheat;
     padding: 10px;
+}
+.ghorme{
+    color: white;
+    display: block;
+    padding: 10px 0px;
+    /* border: 2px solid red; */
+    background-color: green;
+    text-decoration: none;
+    font-size: 20px;
+}
+.kabab{
+    color: white;
+    display: block;
+    padding:  10px 0px;
+    /* border: 2px solid red; */
+    background-color: rgb(56, 16, 16);
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.makaroni{
+    color: white;
+    display: block;
+    padding:  10px 0px;
+    /* border: 2px solid red; */
+    background-color: rgb(255, 176, 30);
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.tahchin{
+    color: white;
+    display: block;
+    padding:  10px 0px;
+    /* border: 2px solid red; */
+    background-color: rgb(158, 145, 0);
+    text-decoration: none;
+    font-size: 20px;
+    /* margin-left: 10px; */
+}
+.morgh{
+    color: white;
+    display: block;
+    padding:  10px 0px;
+    /* border: 2px solid red; */
+    background-color: rgb(192, 134, 79);
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 10px;
 }

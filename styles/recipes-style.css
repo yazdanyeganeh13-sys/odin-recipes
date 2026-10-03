@@ -1,0 +1,36 @@
+html{
+    background-color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+    background-color: green;
+    text-align: center;
+}
+
+.gh-top{
+    display:flex;
+
+
+}
+.gh-p{
+    align-items: center;
+    gap:20px;
+    /* background-color: aquamarine; */
+    margin: 20px;
+    
+}
+.gh-pic{
+    max-width: 350px;
+    height: auto;
+}
+.home{
+    text-decoration: none;
+    background-color: red;
+    padding: 10px;
+    color: whitesmoke;
+    margin:0 auto ;
+    display: block;
+    text-align: center;
+    width: 100px;
+    font-weight: bold;
+}
